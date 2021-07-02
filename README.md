@@ -1,1 +1,1 @@
-# Django boilerplate
+# Django boilerplate2
